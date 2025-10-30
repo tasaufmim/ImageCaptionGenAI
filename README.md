@@ -2,10 +2,10 @@
 This repository demonstrates how to fine-tune the Salesforce BLIP (Bootstrapped Language Image Pretraining) model for image captioning on a custom dataset using PyTorch and Hugging Face Transformers in Google Colab.
 
 It covers:
-Uploading custom image-caption datasets
-Building a PyTorch Dataset for image–text pairs
-Fine-tuning the BLIP model
-Generating captions for new images
+- Uploading custom image-caption datasets
+- Building a PyTorch `Dataset` for image–text pairs
+- Fine-tuning the BLIP model
+- Generating captions for new images
 
 ---
 
