@@ -20,12 +20,12 @@ Install all dependencies with:
 !pip install -q torch torchvision transformers datasets pillow tqdm
 ```
 
-This will install:\
-PyTorch → for model training\
-Transformers → for BLIP and text processing\
-Datasets → optional Hugging Face utilities\
-Pillow (PIL) → image loading\
-tqdm → progress bars
+This will install:
+- PyTorch → for model training
+- Transformers → for BLIP and text processing
+- Datasets → optional Hugging Face utilities
+- Pillow (PIL) → image loading
+- tqdm → progress bars
 
 ---
 
